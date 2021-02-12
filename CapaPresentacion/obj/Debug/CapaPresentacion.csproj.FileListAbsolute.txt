@@ -1,0 +1,62 @@
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaEntidad.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaNegocio.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaDatos.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaEntidad.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaNegocio.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaDatos.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.dll.config
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaPresentacion.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaEntidad.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaNegocio.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaDatos.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaEntidad.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaNegocio.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\bin\CapaDatos.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

@@ -1,0 +1,45 @@
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Darwin\Desktop\DemoCapas ASP.NET-SQL Server - copia\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Lopez\Downloads\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Sistemas\Documents\Visual Studio 2017\DemoCapas ASP.NET-SQL Server\CapaNegocio\obj\Debug\CapaNegocio.pdb
